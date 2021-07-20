@@ -1,7 +1,7 @@
 # IMAGE CLASSIFICATION
 
 ## MOTIVATION:
-* Image recoginiton can be of help in many fields such as object detection and autonomous driving.
+* Image classifiction is one of the basic building block of many computer vision application like autonomous driving.
 
 ## TASK:
 * In this project we classify images into 10 classes.
